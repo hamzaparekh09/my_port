@@ -45,7 +45,7 @@ parso==0.7.0
 path==14.0.1
 pdfminer.six==20200517
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.3.2
 pluggy==0.13.1
 pre-commit==2.4.0
 prompt-toolkit==3.0.5
