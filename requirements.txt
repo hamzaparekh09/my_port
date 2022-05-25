@@ -54,7 +54,7 @@ py==1.8.1
 pycodestyle==2.6.0
 pycryptodome==3.9.7
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 PyMuPDF==1.17.0
 pyparsing==2.4.7
